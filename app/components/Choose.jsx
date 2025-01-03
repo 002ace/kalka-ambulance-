@@ -161,7 +161,7 @@
                     <Image src={people3} alt="people" className="sm:w-[80px] sm:h-[80px]  w-[40px] h-[40px] rounded-full  object-cover" />
                  </div>
 
-                 <div className="sm:w-[83px] sm:h-[83px] w-[40px] h-[40] bg-[#ECFAFA] rounded-full flex items-center justify-center  transform  sm:translate-x-[450px]   sm:-translate-y-[400px]  translate-x-[130px]    -translate-y-[180px]">
+                 <div className="sm:w-[83px] sm:h-[83px] w-[40px] h-[40] bg-[#ECFAFA] rounded-full flex items-center justify-center  transform  sm:translate-x-[450px]   sm:-translate-y-[400px]  translate-x-[150px]    -translate-y-[180px]">
                     <Image src={people4} alt="people" className="sm:w-[80px] sm:h-[80px]  w-[40px] h-[40px] rounded-full  object-cover" />
                  </div> 
 
