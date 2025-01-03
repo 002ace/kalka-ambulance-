@@ -67,9 +67,9 @@ const Footer = () => {
           <Image  src={logo} alt="logo" className="filter brightness-0 invert" />
           <div className="flex items-center space-x-6">
             <Facebook className="w-6 h-6 cursor-pointer hover:text-blue-600" />
-            <Instagram className="w-6 h-6 cursor-pointer hover:text-pink-600" />
-            <Twitter className="w-6 h-6 cursor-pointer hover:text-sky-500" />
-            <Youtube className="w-6 h-6 cursor-pointer hover:text-red-600" />
+            <Instagram className="w-6 h-6 cursor-pointer " />
+            <Twitter className="w-6 h-6 cursor-pointer " />
+            <Youtube className="w-6 h-6 cursor-pointer " />
           </div>
 
          

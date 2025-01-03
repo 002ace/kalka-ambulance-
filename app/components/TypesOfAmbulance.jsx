@@ -162,28 +162,28 @@ const TypesOfAmbulance = () => {
 
                   <div  className=' md:hidden  lg:hidden '> 
 
-                        <Image   src={border} alt="border" className='absolute  h-[324px] w-[137px]  transform  translate-x-[100px]   translate-y-10' />
+                        <Image   src={border} alt="border" className='absolute  h-[324px] w-[137px]  transform  translate-x-[130px]   translate-y-10' />
 
-                        <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[101px]  translate-y-[35px]'  >
+                        <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[130px]  translate-y-[35px]'  >
 
                         </div>
 
 
-                         <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[96px]  translate-y-[271px]'  >
+                         <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[125px]  translate-y-[271px]'  >
 
                          </div>
 
 
-                           <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[230px]  translate-y-[358px]'  >
+                           <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[260px]  translate-y-[358px]'  >
 
                            </div>
 
-                            <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[232px]  translate-y-[119px]'  >
+                            <div  className='rounded-full    bg-[#121E52]   w-[8px] h-[8px] absolute  transform translate-x-[262px]  translate-y-[119px]'  >
 
                             </div>
 
 
-                        <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[10px]   translate-y-[20px]">
+                        <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[35px]   translate-y-[20px]">
 
                               <div   className='w-[45px]  h-[48.37px]  rounded-full  bg-[#FFFFFF]   flex  items-center justify-center'>
 
@@ -203,7 +203,7 @@ const TypesOfAmbulance = () => {
 
                          </div>
 
-                         <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[8px]   translate-y-[250px]">
+                         <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[40px]   translate-y-[250px]">
 
                                      <div   className='w-[45px]  h-[48.37px]  rounded-full  bg-[#FFFFFF]   flex  items-center justify-center'>
 
@@ -223,7 +223,7 @@ const TypesOfAmbulance = () => {
 
                             </div>
 
-                            <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[243px]   translate-y-[335px]">
+                            <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[280px]   translate-y-[335px]">
 
                                  <div   className='w-[45px]  h-[45px]  rounded-full  bg-[#FFFFFF]   flex  items-center justify-center'>
 
@@ -243,7 +243,7 @@ const TypesOfAmbulance = () => {
 
                             </div>
                             
-                        <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[243px]   translate-y-[98px]">
+                        <div  className = "absolute    flex flex-col items-center space-y-2  transform translate-x-[280px]   translate-y-[98px]">
 
                           <div   className='w-[45px]  h-[45px]  rounded-full  bg-[#FFFFFF]   flex  items-center justify-center'>
 
